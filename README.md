@@ -1,6 +1,6 @@
 # Primer contacto con Fiber, backend para Go
 
-Este es un primer contacto con Fiber, no es un CRUD
+Este es un primer contacto con [Fiber](https://docs.gofiber.io/), no es un CRUD
 
 Solo es para ir conociendo las bases para luego hacer un CRUD
 
@@ -130,7 +130,7 @@ func main() {
 
 ## CORS
 
-Recomiendo leer la web oficial para entender mejor este concepto.
+Recomiendo leer la [web oficial](https://docs.gofiber.io/api/middleware/cors/) para entender mejor este concepto.
 
 ```go
 package main
